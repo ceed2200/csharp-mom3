@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleLibrary", "consoleLibrary\consoleLibrary.csproj", "{4AE50E80-42D4-46A6-AAE0-9169300C1508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mom3console", "mom3console\mom3console.csproj", "{D8BE7F0F-E492-4D39-ABF4-4104C4573799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE50E80-42D4-46A6-AAE0-9169300C1508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE50E80-42D4-46A6-AAE0-9169300C1508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE50E80-42D4-46A6-AAE0-9169300C1508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE50E80-42D4-46A6-AAE0-9169300C1508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BE7F0F-E492-4D39-ABF4-4104C4573799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BE7F0F-E492-4D39-ABF4-4104C4573799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BE7F0F-E492-4D39-ABF4-4104C4573799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BE7F0F-E492-4D39-ABF4-4104C4573799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mom3console/1.0.0": {
+        "dependencies": {
+          "consoleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "mom3console.dll": {}
+        }
+      },
+      "consoleLibrary/1.0.0": {
+        "runtime": {
+          "consoleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mom3console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "consoleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

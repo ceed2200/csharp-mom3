@@ -1,0 +1,11 @@
+C:\xampp\htdocs\csharp3\consoleLibrary\bin\Debug\net7.0\consoleLibrary.deps.json
+C:\xampp\htdocs\csharp3\consoleLibrary\bin\Debug\net7.0\consoleLibrary.dll
+C:\xampp\htdocs\csharp3\consoleLibrary\bin\Debug\net7.0\consoleLibrary.pdb
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.AssemblyInfoInputs.cache
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.AssemblyInfo.cs
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.dll
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\refint\consoleLibrary.dll
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\consoleLibrary.pdb
+C:\xampp\htdocs\csharp3\consoleLibrary\obj\Debug\net7.0\ref\consoleLibrary.dll
